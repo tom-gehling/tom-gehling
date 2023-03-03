@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tom-gehling
-- 🌱 I’m currently in my 2nd year of Bachelor of Mathematics and Computer Sciences
+- 🌱 I’m currently in my 3rd year of Bachelor of Mathematics and Computer Sciences
 - 📫 Reach me at a1838949@adelaide.edu.au 
 
 <!---
