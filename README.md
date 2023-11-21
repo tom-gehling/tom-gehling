@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tom-gehling
 - 🌱 I’m currently in my 3rd year of Bachelor of Mathematics and Computer Sciences
-- 📫 Reach me at a1838949@adelaide.edu.au 
+- 👨‍💻 I have a passion for Software Engineering, with interests in Full-Stack Development and Data Science
+- 📫 Reach me at tom.gehling@gmail.com
 
 <!---
 tom-gehling/tom-gehling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
